@@ -1,0 +1,72 @@
+body {
+  background-color: #2b2b2b;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.app-bar {
+  background-color: #1b1b1b;
+  border-bottom: 2px solid #ff9800;
+}
+
+.app-title {
+  font-family: 'Arial', sans-serif;
+  color: #ff9800;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.player-container {
+  padding: 16px;
+  background-color: #2b2b2b;
+  border: 1px solid #ff9800;
+  border-radius: 8px;
+  width: 400px;
+}
+
+.MuiIconButton-root {
+  color: #ff9800;
+}
+
+.MuiTypography-root {
+  font-family: 'Arial', sans-serif;
+}
+
+.MuiSlider-root {
+  color: #ff9800;
+}
+
+.MuiList-root {
+  background-color: #3b3b3b;
+  border-radius: 8px;
+}
+
+.MuiListItem-root {
+  color: #ffffff;
+}
+
+.MuiListItem-root:hover {
+  background-color: #4b4b4b;
+}
+
+.MuiDivider-root {
+  background-color: #ff9800;
+}
+
+.MuiPaper-root {
+  padding: 16px;
+  background-color: #2b2b2b;
+}
+
+.MuiBox-root {
+  margin: 10px 0;
+}
+
